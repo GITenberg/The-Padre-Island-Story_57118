@@ -1,0 +1,23 @@
+_repo: The-Padre-Island-Story_57118
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Reumert, Pat
+    gutenberg_agent_id: '49202'
+    url: http://www.gutenberg.org/2009/agents/49202
+  - agent_name: Daly, Loraine
+    gutenberg_agent_id: '49201'
+    url: http://www.gutenberg.org/2009/agents/49201
+description: ''
+gutenberg_issued: '2018-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Padre Island Story
+url: http://www.gutenberg.org/ebooks/57118
